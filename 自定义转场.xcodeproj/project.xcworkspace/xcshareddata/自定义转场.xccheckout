@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>317502F3-1C91-4821-8827-0256B3EBFC27</string>
+	<key>IDESourceControlProjectName</key>
+	<string>自定义转场</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7E56A5E65F72167A6FA3DFDBFD47960323F248F</key>
+		<string>https://github.com/crossPQW/-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>自定义转场.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7E56A5E65F72167A6FA3DFDBFD47960323F248F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/crossPQW/-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7E56A5E65F72167A6FA3DFDBFD47960323F248F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7E56A5E65F72167A6FA3DFDBFD47960323F248F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E8%87%AA%E5%AE%9A%E4%B9%89%E8%BD%AC%E5%9C%BA</string>
+		</dict>
+	</array>
+</dict>
+</plist>
